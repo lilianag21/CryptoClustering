@@ -11,7 +11,7 @@ In this challenge, you'll use your knowledge of Python and unsupervised learning
 
 ---
 
-## Find the Best Value for `k` Using the Scaled DataFrame
+## Find the Best Value for k Using the Scaled DataFrame
 
 Use the elbow method to find the best value for `k`:
 
@@ -26,7 +26,7 @@ Use the elbow method to find the best value for `k`:
 
 ---
 
-## Cluster Cryptocurrencies with K-Means (Scaled Data)
+## Cluster Cryptocurrencies with K-means Using the Scaled DataFrame
 
 Steps:
 
@@ -42,7 +42,7 @@ Steps:
 
 ---
 
-## Optimize Clusters with Principal Component Analysis (PCA)
+## Optimize Clusters with Principal Component Analysis
 
 - Apply PCA to reduce the scaled DataFrame to **three principal components**.
 - Retrieve the **explained variance** of each component.
@@ -54,7 +54,7 @@ Steps:
 
 ---
 
-## Find the Best Value for `k` Using the PCA DataFrame
+## Find the Best Value for k Using the PCA DataFrame
 
 Repeat the elbow method using the PCA-transformed data:
 
@@ -68,7 +68,7 @@ Repeat the elbow method using the PCA-transformed data:
 
 ---
 
-## Cluster Cryptocurrencies with K-Means (PCA Data)
+## Cluster Cryptocurrencies with K-means Using the PCA DataFrame
 
 - Initialize and fit the K-Means model using the PCA DataFrame.
 - Predict and store clusters.
